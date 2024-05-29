@@ -8,5 +8,5 @@
 
 <a href="https://github.com/bien0504/Data_Modeling/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bien0504&repo=DE_Modeling_Data&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bien0504&repo=Data_Modeling&theme=radical" />
 </a>  
